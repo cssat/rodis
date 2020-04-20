@@ -41,3 +41,6 @@ vignettes/*.pdf
 # PII
 raw_data/*
 
+# exception to the rule
+!raw_data/.gitkeep 
+
