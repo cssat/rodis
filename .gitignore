@@ -38,9 +38,3 @@ vignettes/*.pdf
 # R Environment Variables
 .Renviron
 
-# PII
-raw_data/*
-
-# exception to the rule
-!raw_data/.gitkeep 
-
